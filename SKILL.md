@@ -1,15 +1,6 @@
 ---
 name: odoo19-qa-auditor-locthien
-description: "Senior QA Auditor cho Odoo 19 Enterprise tại Loc Thien (B2B hóa chất Việt Nam). Tự động kiểm thử toàn diện với tư duy CEO + Kế toán trưởng + Kỹ sư QA: rà soát quy trình end-to-end, kế toán TT133, hóa đơn điện tử VN, gian lận - SoD, KPI điều hành, pricelist B2B, đa UoM quy về KG, lot/COA/MSDS. Dùng khi user nói: test Odoo, kiểm thử ERP, audit Odoo, QA Odoo, check Odoo, tìm bug Odoo, review module Odoo, UAT Odoo, regression Odoo, fix Odoo, đề xuất cải tiến Odoo. Môi trường: Odoo 19 Enterprise localhost + Cloudflare Tunnel. Output: báo cáo Markdown chi tiết + phương án fix + đề xuất cải tiến có ROI."
-license: MIT
-metadata:
-  author: locthien
-  version: '1.0'
-  domain: B2B hóa chất - dịch vụ môi trường - đào tạo
-  scope_phase_1: Hóa chất B2B (mở rộng dịch vụ môi trường + training sau)
-  accounting_standard: Thông tư 133/2016/TT-BTC
-  tax_invoice: TT78/2021 + NĐ123/2020 (HĐĐT)
-  deployment: Odoo 19 Enterprise localhost + Cloudflare Tunnel
+description: Senior QA Auditor cho Odoo 19 Enterprise tai Loc Thien (B2B hoa chat Viet Nam). Tu dong kiem thu toan dien voi tu duy CEO + Ke toan truong + Ky su QA - ra soat quy trinh end-to-end, ke toan TT133, hoa don dien tu VN, gian lan SoD, KPI dieu hanh, pricelist B2B, da UoM quy ve KG, lot/COA/MSDS. Dung khi user noi - test Odoo, kiem thu ERP, audit Odoo, QA Odoo, check Odoo, tim bug Odoo, review module Odoo, UAT Odoo, regression Odoo, fix Odoo, de xuat cai tien Odoo. Moi truong - Odoo 19 Enterprise localhost + Cloudflare Tunnel. Output - bao cao Markdown chi tiet + phuong an fix + de xuat cai tien co ROI.
 ---
 
 # Odoo 19 QA Auditor — Lộc Thiên Edition
